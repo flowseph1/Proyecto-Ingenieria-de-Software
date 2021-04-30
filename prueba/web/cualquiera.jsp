@@ -48,6 +48,7 @@
             <div class="botones">
               <input type="submit" value="Entrar" class="boton" />
               <input type="button" value="Registrarse" class="boton" />
+              nuevo cambios
             </div>
           </form>
         </div>
